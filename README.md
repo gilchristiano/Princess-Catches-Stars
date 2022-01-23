@@ -14,6 +14,3 @@ Docente (orientador(a)):
 Compilador SGDK (SEGA Genesis Development Kit) em Linguagem C
 <br>https://github.com/Stephane-D/SGDK 
 
-<center>
-<a href="https://github.com/gilchristiano/Princess-Catches-Stars/blob/main/screen_shot_v001.png">
-</center>
