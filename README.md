@@ -5,4 +5,5 @@ Protótipo de Jogo como Projeto de Conclusão do Curso Superior em Tecnologia Ga
 da Universidade Maurício de Nassau (UNINASSAU) / Polo: Feira de Santana - Bahia
 
 Discente: Msc. Gil Christiano Guedes dos Santos
- Docente (orientador(a)):
+
+Docente (orientador(a)):
